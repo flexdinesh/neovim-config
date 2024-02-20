@@ -14,5 +14,6 @@ return {
       },
     },
     { "ellisonleao/gruvbox.nvim" },
-    { "EdenEast/nightfox.nvim" }
+    { "EdenEast/nightfox.nvim" },
+    { "luisiacc/gruvbox-baby" }
 }

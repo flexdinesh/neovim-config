@@ -20,7 +20,8 @@ return {
   -- Set colorscheme to use
   -- colorscheme = "onedark",
   -- colorscheme = "gruvbox",
-  colorscheme = "nightfox",
+  -- colorscheme = "nightfox",
+  colorscheme = "gruvbox-baby",
 
   -- Diagnostics configuration (for vim.diagnostics.config({...})) when diagnostics are on
   diagnostics = {
