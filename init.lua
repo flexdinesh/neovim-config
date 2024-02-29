@@ -21,7 +21,8 @@ return {
   -- colorscheme = "onedark",
   -- colorscheme = "gruvbox",
   -- colorscheme = "nightfox",
-  colorscheme = "gruvbox-baby",
+  -- colorscheme = "gruvbox-baby",
+  colorscheme = "catppuccin",
 
   -- Diagnostics configuration (for vim.diagnostics.config({...})) when diagnostics are on
   diagnostics = {
